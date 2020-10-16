@@ -8,12 +8,13 @@ in the dataset are linked to the demographics and treadmill usage
 characteristics of the customers.
 
 This project includes:
-  1.Importing the dataset in R
-  
-  2.Understanding the structure of dataset
-  
-  3.Graphical exploration
-  
-  4.Descriptive statistics
-  
-  5.Insights from the dataset
+
+    1.Importing the dataset in R
+
+    2.Understanding the structure of dataset
+
+    3.Graphical exploration
+
+    4.Descriptive statistics
+
+    5.Insights from the dataset
